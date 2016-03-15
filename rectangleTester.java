@@ -2,7 +2,7 @@ package main;
   
   class Rectangle{
 	  
-	  double area,perimeter;
+	 
 	   int width, height, x, y;
 	
 	  Rectangle(){}
